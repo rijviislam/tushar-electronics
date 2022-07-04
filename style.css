@@ -53,13 +53,16 @@ ul li {
     color: #FFF;
     background-color: #1E90FF;
     border-radius: 20px;
-}.main__section {
+}
+
+.main__section {
     width: 100%;
     min-height: 90vh;
 }
+
 .landing__container {
-   display: flex;
-   align-items: center;
+    display: flex;
+    align-items: center;
 }
 
 .text__section {
@@ -95,6 +98,7 @@ ul li {
     color: #FFFF;
     font-family: 'Poppins', sans-serif;
 }
+
 .image__container {
     width: 40%;
     margin-top: 4rem;
@@ -104,6 +108,7 @@ ul li {
     width: 400px;
     height: 450px;
 }
+
 .image__section img {
     width: 100%;
     height: 100%;
@@ -114,9 +119,11 @@ ul li {
     grid-template-columns: 2fr 3fr;
     margin-top: 5rem;
 }
+
 .image--section--one {
     width: 100%;
 }
+
 .image--section--one img {
     width: 100%;
     border-radius: 10px;
@@ -240,7 +247,7 @@ ul li {
 }
 
 .product__one {
-    width: 570px;
+    width: 575px;
     height: 570px;
 
 }
